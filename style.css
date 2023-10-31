@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+label {
+  display: inline-block;
+  min-width: 150px;
+}
+
+div {
+  margin: 25px;
+}
+
+.signUpError {
+  color: red;
+  font-size: small;
+}
